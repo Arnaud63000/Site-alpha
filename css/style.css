@@ -1,0 +1,16 @@
+body html
+{
+	overflow-x: hidden;
+}
+.navbar
+{
+	height: 60px;
+	background-color: #7E10F8;
+}
+.navbar a
+{
+	color: white;
+	font-weight: bold;
+	margin-left: 50px;
+}
+
